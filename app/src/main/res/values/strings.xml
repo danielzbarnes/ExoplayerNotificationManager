@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExoplayerNotificationManager</string>
+    <string name="channel_name">Exoplayer App</string>
+    <string name="channel_desc">App that controls exoplayer from notification bar.</string>
+    <string name="album_image_desc">Album Art</string>
+    <string name="time_placeholder">--:--</string>
+    <string name="rew_desc">Button Rewind 15 Seconds</string>
+    <string name="play_button_desc">Play Button</string>
+    <string name="pause_button_desc">Pause Button</string>
+    <string name="ff_button_desc">Button Skip Forward 15 Seconds</string>
+    <string name="title_desc">Placeholder Title</string>
+    <string name="album_title_desc">Placeholder Album Title</string>
+</resources>
